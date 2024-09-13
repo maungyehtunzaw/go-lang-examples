@@ -1,0 +1,8 @@
+PUT http://localhost:8080/posts/12
+Content-Type: application/json
+
+
+{
+  "title": "Updated 12 12 New Hi title",
+  "body": "update 12 12 New Hi Body"
+}
